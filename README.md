@@ -21,7 +21,8 @@ About
 ======
 
 Project based on frontendmentor design, URL link is below:
-https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+
+* https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
 
 Installing
