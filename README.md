@@ -15,7 +15,7 @@ Technology stack
 
 * HTML
 * SCSS
-* Figma (For design)
+
 
 About
 ======
